@@ -3,3 +3,4 @@ kapi
 shaggy
 sheron
 solar
+murga
